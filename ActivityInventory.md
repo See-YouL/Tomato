@@ -17,6 +17,7 @@
 | 3-31     | 51单片机           |
 | 3-31     | 刘晓燕单词         |                                                                                                             |
 | 3-31     | 刘晓燕语法和长难句 | https://www.youtube.com/playlist?list=PLjuy_QvCKvDLEruRsuvl0JKh2m_rbUHS8                                    |
+| 3-31     | MySQL              |                                                                                                             |
 
 ## 四月
 
